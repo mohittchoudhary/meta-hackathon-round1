@@ -1,49 +1,52 @@
-# Meta Open Source Hackathon - Round 1
+# Meta Open Source Hackathon - Round 1 🚀
 
 ## 👨‍💻 About Me
-I am a first-year student passionate about solving real-world problems using technology. I enjoy building innovative solutions that can create real impact.
+I am a first-year engineering student passionate about solving real-world problems using technology. I enjoy building practical solutions that can create real impact, especially in emergency systems and smart infrastructure.
 
-## 🚀 Why I Joined
-I joined this hackathon to explore open-source development, learn new technologies, and build solutions that can help people in real-life situations.
+---
+
+## 🎯 Why I Joined
+I joined the Meta Open Source Hackathon to explore open-source development, learn modern frameworks like OpenEnv, and build solutions that can improve real-life systems at scale.
 
 ---
 
 ## 💡 My Ideas
 
-### 1. Smart Emergency Traffic System
-**Problem:** Ambulances get stuck in traffic, causing delays in emergency response.  
-**Solution:** A system that detects emergency vehicles and automatically controls traffic signals.  
-**Impact:** Saves lives by reducing response time.
+### 🚑 1. AI-Powered Emergency Traffic System (PulseGrid Inspired)
+**Problem:** Emergency vehicles like ambulances are delayed due to traffic congestion.  
+**Solution:** An AI-powered system that detects emergency vehicles and dynamically controls traffic signals using real-time data.  
+**Impact:** Faster emergency response → Saves lives.
 
 ---
 
-### 2. AI-Based Disaster Alert System
-**Problem:** People don’t get timely alerts during floods, earthquakes, or disasters.  
-**Solution:** AI system that analyzes data and sends early warnings to nearby users.  
-**Impact:** Reduces damage and saves lives.
+### 🌊 2. Smart Disaster Prediction & Alert System
+**Problem:** People often receive late warnings during natural disasters.  
+**Solution:** AI-based system that analyzes environmental data and sends early alerts to nearby users.  
+**Impact:** Reduces risk and improves disaster preparedness.
 
 ---
 
-### 3. Student Focus Tracker
-**Problem:** Students struggle to stay focused while studying.  
-**Solution:** A tool that tracks focus time and gives productivity insights.  
-**Impact:** Improves learning efficiency.
+### 📚 3. AI Study Focus Assistant
+**Problem:** Students struggle to maintain focus and productivity.  
+**Solution:** A smart assistant that tracks study patterns and provides personalized focus insights.  
+**Impact:** Improves student performance and efficiency.
 
 ---
 
-### 4. Smart Waste Management System
-**Problem:** Garbage collection is inefficient and irregular.  
-**Solution:** IoT-based bins that notify when full and optimize collection routes.  
-**Impact:** Cleaner cities and better waste handling.
+### 🗑️ 4. Intelligent Waste Management System
+**Problem:** Inefficient garbage collection leads to dirty environments.  
+**Solution:** IoT-enabled smart bins that notify authorities and optimize collection routes.  
+**Impact:** Cleaner cities and better resource management.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech & Skills
 - Python (Basics)
 - HTML/CSS
+- Git & GitHub
 - Problem Solving
 
 ---
 
-## 🌐 GitHub Repository
-This repository contains my Round 1 submission for the Meta Open Source Hackathon.
+## 🌐 Repository
+This repository contains my submission for Round 1 of the Meta Open Source Hackathon.
